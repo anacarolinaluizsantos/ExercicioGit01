@@ -1,0 +1,19 @@
+1- Ir ao quarto;
+2- Abrir guarda roupa
+3- Abrir a gaveta
+4- Escolher a roupa que vai ser usada
+5 - Pegar toalha no varal
+6 - Ir ao banheiro
+7 - Tirar a roupa já usada
+8 - Se já estiver suja, por para lavar;
+9 - Se não, deixar pendurada no cabide
+10 - Calçar o chinelo
+11 - Abrir chuveiro
+12 - Pegar a bucha de banho e o sabonete;
+13 - Esfregar o sabão na bucha e por um pouco de água
+14 - Esfregar a bucha no corpo;
+15 - Enxaguar-se
+16 - Fechar chuveiro
+17 - Enxugar-se
+18 - Vestir roupa limpa;
+19 - Colocar a toalha molhada no varal.
