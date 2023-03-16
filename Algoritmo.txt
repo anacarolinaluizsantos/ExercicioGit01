@@ -1,5 +1,0 @@
-Algoritmo ChuparBala
-1- Pegar uma bala
-2- Tirar o papel da mesma
-3 - Chupar a bala
-4 - Jogar papel no lixo
